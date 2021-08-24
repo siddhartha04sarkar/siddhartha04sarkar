@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddhartha 💞️ 
 - 👀 I’m interested in Coding, Web development, Designing application and Painting....
-- 🌱 I always love to explore new domain
+- 🌱 I always love to explore new things
 - 📫 you can reach me at contact.siddhartha04@gmail.com
 
 <!---
